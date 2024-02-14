@@ -1,0 +1,26 @@
+body {
+    background-image: url('weather.gif');
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 100px 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
